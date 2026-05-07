@@ -37,9 +37,9 @@ It provides instant answers using a hybrid approach combining:
 - Web-based application
 
 Biotech_chatbot
- app.py
- chatbot_logic.py
- create_db.py
- biotech_chatbot.db
- .gitignore
- README.md
+ app.py,
+ chatbot_logic.py,
+ create_db.py,
+ biotech_chatbot.db,
+ .gitignore,
+ README.md.
