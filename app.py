@@ -14,7 +14,6 @@ if "messages" not in st.session_state:
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
-
 # User input box (chat-style)
 user_input = st.chat_input("Ask a biotechnology question...")
 
