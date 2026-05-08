@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 # Biotech Q&A Chatbot
 
-## Project Overview
-=======
-Biotech-chat-bot
-
 ## project overview
->>>>>>> cd685d8d540413de71ab6071cf39b20190bcec22
+
 The Biotech Q&A Chatbot is an AI-powered web application designed to help students understand biotechnology concepts easily.
 
 It provides instant answers using a hybrid approach combining:
